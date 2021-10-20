@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diederikdevries
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Cisco DevNet
+- 💞️ I’m looking to collaborate on Non For Profits
+- 📫 How to reach me: github+nospam@diederik.nl
